@@ -5,4 +5,4 @@
 * Explore the infection rate, total cases and total deaths grouped by countries and continents 
 * Create a new column called RollingPeopleVaccinated that is an increasing sum that represents the total number of people vaccinated up to that day
 ** In order to create this new column a CTE or Temp Tabled needed to be made.
-*Finally I created a view in order to store the table for later visualizations.
+* Finally I created a view in order to store the table for later visualizations.
